@@ -27,12 +27,15 @@ Tech Stack:
     Tools: Qt Creator IDE
 
 Some screensorts:
+
 GAME PLAY
+
     <img width="823" height="962" alt="gameplay" src="https://github.com/user-attachments/assets/96b1dd31-be82-4464-8952-8d5b10338b18" />
 
 GAME-OVER
-<img width="824" height="962" alt="game_over" src="https://github.com/user-attachments/assets/bba6582c-3dd5-4ec2-b279-5bf741f20c6e" />
+
+    <img width="824" height="962" alt="game_over" src="https://github.com/user-attachments/assets/bba6582c-3dd5-4ec2-b279-5bf741f20c6e" />
 
 CAVE_TELEPORTATION
 
-<img width="835" height="949" alt="cave_teleportation" src="https://github.com/user-attachments/assets/21bcc98b-893a-4b40-83e2-551db3e93e38" />
+    <img width="835" height="949" alt="cave_teleportation" src="https://github.com/user-attachments/assets/21bcc98b-893a-4b40-83e2-551db3e93e38" />
